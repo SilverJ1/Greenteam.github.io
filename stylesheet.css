@@ -207,7 +207,7 @@ input[type=text], select, textarea {
 
 
 input[type=submit] {
-    background-color: #4CAF50;
+    background-color: #196D7B;
     color: white;
     padding: 12px 20px;
     border: none;
@@ -217,16 +217,17 @@ input[type=submit] {
 
 
 input[type=submit]:hover {
-    background-color: #45a049;
-}
-.contactmain{
-display:inline-block;
-    
-}
-.contactimg{
-    display: inline-block;
+    background-color: #196D7B;
 }
 
+.contactimg {
+    width: 95%; 
+    height: 350px;
+    margin: auto;
+    background-image: url(pier-349672_1280.jpg);
+    background-position: center;
+}
+    
 /*---------End of Contact us -----------*/
 
 /*----------product pages----------------*/
